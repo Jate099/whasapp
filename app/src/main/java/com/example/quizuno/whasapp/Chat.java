@@ -84,11 +84,10 @@ public class Chat extends AppCompatActivity {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
 
-                for(DataSnapshot user : dataSnapshot.getChildren()){
-                    Usuario u = user.getValue(Usuario.class);
+                    Usuario u = dataSnapshot.getValue(Usuario.class);
 
                     nameUser = u.nombre;
-                }
+
             }
 
             @Override

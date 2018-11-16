@@ -1,0 +1,218 @@
+{
+  "project_info": {
+    "project_number": "394672148377",
+    "firebase_url": "https://registro-bd3b8.firebaseio.com",
+    "project_id": "registro-bd3b8",
+    "storage_bucket": "registro-bd3b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394672148377:android:804fa358a33db504",
+        "android_client_info": {
+          "package_name": "com.example.a1143878729.listasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394672148377-9ntnan3t1n06l5p68df1fi3ngkj61ae4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a1143878729.listasfirebase",
+            "certificate_hash": "7749b5b108b2caf82f9a3a0355f497ed9f5b6ffd"
+          }
+        },
+        {
+          "client_id": "394672148377-1om46v2mpvn84d7jg8hopl51i7cicfuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTnqh8dwBBUHv8U7WlCeFBQgL_LlJUr8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394672148377-1om46v2mpvn84d7jg8hopl51i7cicfuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394672148377:android:b3e6f4c7b6cf6891",
+        "android_client_info": {
+          "package_name": "com.example.estudiante.registro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394672148377-5e80ndfnv8n3jg4kgsejrsah0jkjsoir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estudiante.registro",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "394672148377-1om46v2mpvn84d7jg8hopl51i7cicfuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTnqh8dwBBUHv8U7WlCeFBQgL_LlJUr8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394672148377-1om46v2mpvn84d7jg8hopl51i7cicfuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394672148377:android:34f0143568812972",
+        "android_client_info": {
+          "package_name": "com.example.quizuno.firebaselistsfromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394672148377-b4f7po2ds8ols44orebrstajf2rjtcbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizuno.firebaselistsfromfirebase",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "394672148377-1om46v2mpvn84d7jg8hopl51i7cicfuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTnqh8dwBBUHv8U7WlCeFBQgL_LlJUr8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394672148377-1om46v2mpvn84d7jg8hopl51i7cicfuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394672148377:android:c097f9997e2ffcae",
+        "android_client_info": {
+          "package_name": "com.example.quizuno.listasfirebaase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394672148377-1om46v2mpvn84d7jg8hopl51i7cicfuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTnqh8dwBBUHv8U7WlCeFBQgL_LlJUr8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394672148377:android:475eba5df9f32c55",
+        "android_client_info": {
+          "package_name": "com.example.quizuno.whasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394672148377-6uioqi24k36vkdl4v674j8tjolr99im4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizuno.whasapp",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "394672148377-1om46v2mpvn84d7jg8hopl51i7cicfuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTnqh8dwBBUHv8U7WlCeFBQgL_LlJUr8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394672148377-1om46v2mpvn84d7jg8hopl51i7cicfuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
